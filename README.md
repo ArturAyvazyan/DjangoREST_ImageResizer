@@ -7,9 +7,7 @@ To run this project:
 2) python manage.py runserver
 
 And resize your image through API URL's in url.py file.
- api/v1/work/create
- api/v1/work/list
- api/v1/work/detail/PUT_ID_OF_IMAGE_HERE/
+
 
 Good luck!
 
@@ -20,8 +18,5 @@ Good luck!
 2) python manage.py runserver
 
 И спокойно меняйте размер изображений через адреса API, указанные в файле URL:
- api/v1/work/create
- api/v1/work/list
- api/v1/work/detail/PUT_ID_OF_IMAGE_HERE/
  
  Удачи в жизни!
